@@ -1,0 +1,7 @@
+title: Lead Software Engineer Portfolio
+description: A professional portfolio for a Lead Software Engineer with experience in iOS and Flutter.
+url: "https://yourusername.github.io/your-portfolio"
+baseurl: ""  # leave empty if hosted at the root
+theme: minima
+paginate: 5
+markdown: kramdown
