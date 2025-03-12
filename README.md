@@ -4,7 +4,7 @@ Welcome to my mobile development portfolio! I'm Syed Arshad Ali, a passionate an
 
 ## 🚀 About Me
 
-Hi, I’m Syed Arshad Ali, a mobile developer with [X] years of experience in developing mobile applications. I specialize in building apps using **React Native**, **Swift**, and **Kotlin**, but I have experience with other technologies such as **Flutter**, **Java**, and **Xamarin**. My goal is to create seamless and intuitive user experiences through modern mobile technologies.
+Hi, I’m Syed Arshad Ali, a mobile developer with 6+ years of experience in developing mobile applications. I specialize in building apps using **React Native**, **Swift**, and **Kotlin**, but I have experience with other technologies such as **Flutter**, **Java**, and **Xamarin**. My goal is to create seamless and intuitive user experiences through modern mobile technologies.
 
 - **Location:** [Your Location]
 - **Email:** [Your Email]
